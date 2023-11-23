@@ -1,3 +1,3 @@
-module.exports = () => {
-  return value * value;
+module.exports = (num) => {
+  return num * num;
 };
